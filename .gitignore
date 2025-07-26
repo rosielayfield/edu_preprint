@@ -8,3 +8,9 @@ edu_preprint.docx
 edu_preprint_cache/
 formatting_for_preprint
 code/tables_figures/
+.DS_Store
+edu_preprint.Rmd
+edu_preprint_refs.bib
+plots/
+results/
+write_up/
